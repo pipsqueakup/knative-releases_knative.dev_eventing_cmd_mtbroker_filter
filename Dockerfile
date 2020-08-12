@@ -1,0 +1,2 @@
+from gcr.io/knative-releases/knative.dev/eventing/cmd/mtbroker/filter@sha256:3b85d745bba2f32f2e60ddca2781969198d8c82434e18706c040b06884a42f8d
+MAINTAINER alufer8dock
